@@ -1,7 +1,7 @@
 ![veryacademy](/logo.svg)
 
 <div align="center">
-  <h1><strong>Python Pytest and Django Course</strong></h1>
+  <h1>Python Pytest and Django Course</h1>
 </div>
 
 <div align="center">
