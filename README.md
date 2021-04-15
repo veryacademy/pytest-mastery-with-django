@@ -1,12 +1,40 @@
+![veryacademy](/logo.svg)
+
+<div align="center">
+  <h1>Python Pytest and Django Course</h1>
+</div>
+
+<div align="center">
+  <strong>Learn how to implement Pytest with Django</strong>
+</div>
+
+<div align="center">
+  Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
+</div>
+
+<br>
+
+<div align="center">
+  Please join our active, growing community: <br>
+  <a href="#">Website (Coming Soon)</a>
+  <span> | </span>
+  <a href="https://twitter.com/VeryAcademy">Twitter</a>
+  <span> | </span>
+  <a href="https://www.youtube.com/veryacademy">YouTube</a>
+</div>
+
+<br>
+
+<div align="center">
 <a href="https://www.paypal.com/donate?hosted_button_id=W55GVT4UPXPYE" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
+</div>
 
-![veryacademy](/logo.svg)
 
-# Python Pytest and Django Course
+## Course Introduction
 Learn how to implement Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
 
 We'll teach you how to get started testing with Pytest and Django, normally a topic reserved for advanced uses. I try to simply and present the materials with a practical approach to engage a wider audeince and level of knowledge. Here are just a few topics we will be learning:
