@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## Python Pytest and Django Course
+# Python Pytest and Django Course
 Learn how to implement Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
 
 We'll teach you how to get started testing with Pytest and Django, normally a topic reserved for advanced uses. I try to simply and present the materials with a practical approach to engage a wider audeince and level of knowledge. Here are just a few topics we will be learning:
@@ -14,10 +13,10 @@ We'll teach you how to get started testing with Pytest and Django, normally a to
 * Coverage
 * pytest-xdist
 * much more..
-=======
-# Python Pytest and Django Course
+
+## Python Pytest and Django Course
 Learn Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework to test Django applications.
->>>>>>> 3498b290c8b080408d66e643bedfbf9b89ec9770
+
 
 ## Tutorials
 This course is hosted on YouTube, the full YouTube playlist can be found [here](https://youtube.com/playlist?list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY) on our YouTube channel.
