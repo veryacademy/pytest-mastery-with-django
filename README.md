@@ -4,7 +4,7 @@ target="_blank">
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
 
-![veryacademy](/logo.png)
+![veryacademy](/logo.svg)
 
 # Python Pytest and Django Course
 Learn how to implement Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
