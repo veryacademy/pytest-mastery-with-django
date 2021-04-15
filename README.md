@@ -12,7 +12,7 @@ We'll teach you how to get started testing with Pytest and Django, normally a to
 * Pytest-django
 * Coverage
 * pytest-xdist
-* much more..
+* much more...
 
 ## Python Pytest and Django Course
 Learn Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework to test Django applications.
