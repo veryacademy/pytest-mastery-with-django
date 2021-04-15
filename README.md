@@ -2,7 +2,7 @@
 Learn Pytest with Django. Welcome to testing Django applications with Pytest course. Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework to test Django applications.
 
 ## Tutorials
-This course is presented on YouTube, the full playlist can be found [here](https://www.youtube.com/watch?v=UqSJCVePEWU&list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_) on our YouTube channel take you through the steps of developing an ecommerce application with Python Django, prodominately deploying the Django templating system.
+This course is presented on YouTube, the full playlist can be found [here](https://youtube.com/playlist?list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY) on our YouTube channel take you through the steps of developing an ecommerce application with Python Django, prodominately deploying the Django templating system.
 
 ## Prerequisites
 Python installed, some knowledge of Django would be good. Generally topics such as this would be considered for advanced users - I try my best to simplify content so that anyone can get involved.
