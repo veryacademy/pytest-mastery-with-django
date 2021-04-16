@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  Pytest is a mature full-featured Python testing tool that ultimuately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
+  Pytest is a mature full-featured Python testing tool that ultimately helps you write better programs, in this course we integrate Pytest with the Django Framework for testing our Django applications.
 </div>
 
 <br>
