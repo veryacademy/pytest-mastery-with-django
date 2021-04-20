@@ -99,6 +99,19 @@ Pytest is a popular python test automation framework. Here we look at replacing 
 
 </details>
 
+</details>
+
+<details>
+<summary><b>Part-3 Pytest | Django | Parametrizing </b>
+</summary>
+<br>
+
+<br><br>
+
+* Link to Tutorial 
+
+</details>
+
 ## Future Content
 List of features requested by community. If you would like to request any tutorials for this course - please visit our YouTube channel and ask in the comments.
 
