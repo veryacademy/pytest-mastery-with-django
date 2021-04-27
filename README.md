@@ -95,20 +95,36 @@ Pytest is a popular python test automation framework. Here we look at getting st
 Pytest is a popular python test automation framework. Here we look at replacing Pytest fixtures with Factory Boy in a Python Django project. Factory Boy as a fixtures replacement tool, it aims to replace static, hard to maintain fixtures with easy-to-use factories for complex objects. In this tutorial we intergrade Factory boy into our small app and take a look at some of the more common features.
 <br><br>
 
-* Link to Tutorial https://youtu.be/qrvqNdCDKjM
+Link to Tutorial https://youtu.be/qrvqNdCDKjM
 
 </details>
 
 </details>
 
 <details>
-<summary><b>Part-3 Pytest | Django | Parametrizing </b>
+<summary><b>Part-4 Pytest | Django | Parametrizing </b>
+Pytest is a popular python test automation framework. Here we look at Parametrizing Fixtures and Test Functions with Pytest in a Django project. 
+A useful feature of Pytest, parametrization allows us to define multiple sets of arguments and fixtures at the test function or class. Although pytest enables test parametrization at several levels, in this tutorial we get started  by working through an example of a test function that implements parametrization checking multiple input leads to the expected output.
 </summary>
 <br>
 
 <br><br>
 
-* Link to Tutorial 
+Link to Tutorial https://youtu.be/APhI43fyRHI
+
+</details>
+
+</details>
+
+<details>
+<summary><b>Part-5 Pytest | Selenium | Python Django - Intro Testing with Pytest, Selenium and Django </b>
+In this Pytest, Selenium tutorial we consolidate knowledge learnt from the Pytest and Selenium tutorial series and in introduce working with Selenium within a Pytest testing environment. Some underpinning knowledge is provided, but it is expected that you have watched the first tutorials in both the Pytest and Selenium series to grasp the full potential of this tutorial. 
+</summary>
+<br>
+
+<br><br>
+
+Link to Tutorial https://youtu.be/o_rubsSu-Ds
 
 </details>
 
