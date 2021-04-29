@@ -126,6 +126,17 @@ Link to Tutorial https://youtu.be/o_rubsSu-Ds
 
 </details>
 
+<details>
+<summary><b>Part-6 Pytest | Selenium | Python Django - Automating Screenshots </b></summary>
+In this Pytest, Selenium tutorial we consolidate knowledge learnt from the Pytest and Selenium tutorial series and introduce working with Selenium - automating the process of taking screenshots of our application.
+<br>
+
+<br><br>
+
+Link to Tutorial https://youtu.be/SWBytYYVINE
+
+</details>
+
 ## Future Content
 List of features requested by community. If you would like to request any tutorials for this course - please visit our YouTube channel and ask in the comments.
 
